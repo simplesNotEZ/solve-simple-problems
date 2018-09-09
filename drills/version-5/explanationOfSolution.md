@@ -7,8 +7,11 @@ This is a brief explanation of my solution to the 'Desert Crossing' puzzle:
 I've made some assumptions here:
 
 -There are at least four other drivable vehicles
+
 -There are at least four drivers
+
 -It's okay to abandon vehicles in the desert
+
 -It's okay to abandon drivers in the desert, or it's okay to consolidate drivers into the remaining vehicles that still have fuel
 
 ## Process
